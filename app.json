@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "OlxTestApp",
+    "slug": "OlxTestApp",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}
